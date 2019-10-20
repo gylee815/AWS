@@ -1,0 +1,2 @@
+var countries_arr = ['au', 'bn', 'kh', 'cn', 'cn', 'fj', 'hk', 'in', 'id', 'kr', 'la','my', 'mn', 'mm', 'nz', 'pk', 'ph', 'sg', 'lk', 'tw', 'tw', 'th', 'vn', 'ca', 'mx', 'us']
+module.exports = countries_arr

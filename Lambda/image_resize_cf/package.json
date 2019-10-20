@@ -1,0 +1,16 @@
+{
+  "name": "image_resizing",
+  "version": "1.0.0",
+  "description": "img resizing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "gylee",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4",
+    "sharp": "^0.22.1"
+  }
+}

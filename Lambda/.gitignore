@@ -1,0 +1,6 @@
+image_resize_private/
+image_resize_public/
+node_modules/
+ddb_batchItem.zip
+origin_request_redirect.zip
+pacakage-lock.json
